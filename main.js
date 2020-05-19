@@ -52,6 +52,16 @@ var budgetController = (function (){
       return newItem;
     },
 
+    calculateBudget: function() {
+
+      // calculate total income and expenses
+
+      // calculate the butget : income - expense
+
+      // caluculate the parsetage of income that we spend
+
+
+
     testing: function() {
       console.log(date);
     }
